@@ -1,0 +1,47 @@
+{
+  "name"        : "blueblazeassociates/twentysixteen-blueblaze",
+  "description" : "Twenty Sixteen child theme for Blue Blaze Associates.",
+  "type"        : "wordpress-theme",
+  "homepage"    : "https://github.com/blueblazeassociates/twentysixteen-blueblaze",
+  "license"     : "GPL-2.0+",
+  "authors" : [{
+      "name"     : "Blue Blaze Associates",
+      "homepage" : "http://www.blueblazeassociates.com",
+      "role"     : "Owner",
+      "email"    : "admin@blueblazeassociates.com"
+    }, {
+      "name"     : "Ed Gifford",
+      "homepage" : "http://www.blueblazeassociates.com",
+      "role"     : "Developer",
+      "email"    : "egifford@blueblazeassociates.com"
+    }
+  ],
+  "keywords" : [
+    "one-column",
+    "two-columns",
+    "right-sidebar",
+    "accessibility-ready",
+    "custom-background", 
+    "custom-colors",
+    "custom-header",
+    "custom-menu",
+    "editor-style",
+    "featured-images",
+    "flexible-header",
+    "microformats",
+    "post-formats",
+    "rtl-language-support",
+    "sticky-post",
+    "threaded-comments",
+    "translation-ready",
+    "blog"
+  ],
+  "replace" : {
+  },
+  "require" : {
+    "php" : ">=5.6.26" 
+  },
+  "config" : {
+    "php" : "5.6.*"
+  }
+}
